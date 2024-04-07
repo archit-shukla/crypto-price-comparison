@@ -1,0 +1,1 @@
+9999999999{"name": "DateTime", "version": "4.7", "summary": "This package provides a DateTime data type, as known from Zope. Unless you need to communicate with Zope APIs, you're probably better off using Python's built-in datetime module.", "platform": null, "requires_dist": ["zope.interface", "pytz"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

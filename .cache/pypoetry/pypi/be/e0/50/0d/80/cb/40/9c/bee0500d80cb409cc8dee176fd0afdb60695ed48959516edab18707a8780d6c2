@@ -1,0 +1,1 @@
+9999999999{"name": "MultiMapping", "version": "4.1", "summary": "Special MultiMapping objects used in Zope.", "platform": "", "requires_dist": ["ExtensionClass"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

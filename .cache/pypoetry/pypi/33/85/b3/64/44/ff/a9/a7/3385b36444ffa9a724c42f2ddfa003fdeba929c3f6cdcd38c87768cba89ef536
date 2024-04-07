@@ -1,0 +1,1 @@
+9999999999{"name": "WSGIProxy2", "version": "0.5.1", "summary": "A WSGI Proxy with various http client backends", "platform": "", "requires_dist": ["webob"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

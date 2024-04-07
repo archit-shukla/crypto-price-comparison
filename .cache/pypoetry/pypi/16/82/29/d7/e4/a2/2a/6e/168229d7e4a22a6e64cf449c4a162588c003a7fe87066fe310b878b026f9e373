@@ -1,0 +1,1 @@
+9999999999{"name": "Persistence", "version": "3.6", "summary": "Persistent ExtensionClass", "platform": null, "requires_dist": ["ExtensionClass (>=4.6)", "persistent (>=4.1.1)", "six", "zope.testrunner ; extra == 'test'"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

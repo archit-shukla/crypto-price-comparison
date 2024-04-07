@@ -1,0 +1,1 @@
+9999999999{"name": "zodbpickle", "version": "2.6", "summary": "Fork of Python 2 and 3 pickle module.", "platform": "any", "requires_dist": ["setuptools", "zope.testrunner ; extra == 'test'"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

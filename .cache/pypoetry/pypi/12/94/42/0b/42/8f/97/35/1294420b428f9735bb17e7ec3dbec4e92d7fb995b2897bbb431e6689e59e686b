@@ -1,0 +1,1 @@
+9999999999{"name": "ZConfig", "version": "3.6.1", "summary": "Structured Configuration Library", "platform": null, "requires_dist": ["sphinxcontrib-programoutput ; extra == 'docs'", "docutils ; extra == 'test'", "manuel ; extra == 'test'", "zope.exceptions ; extra == 'test'", "zope.testrunner ; extra == 'test'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

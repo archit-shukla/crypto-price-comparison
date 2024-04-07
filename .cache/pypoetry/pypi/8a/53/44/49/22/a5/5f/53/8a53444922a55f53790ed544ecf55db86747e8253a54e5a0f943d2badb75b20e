@@ -1,0 +1,1 @@
+9999999999{"name": "zc.lockfile", "version": "2.0", "summary": "Basic inter-process locks", "platform": "", "requires_dist": ["setuptools", "zope.testing ; extra == 'test'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

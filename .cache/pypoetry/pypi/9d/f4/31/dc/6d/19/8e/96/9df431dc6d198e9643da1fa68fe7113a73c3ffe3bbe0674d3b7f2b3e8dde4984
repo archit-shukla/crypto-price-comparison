@@ -1,0 +1,1 @@
+9999999999{"name": "ExtensionClass", "version": "4.9", "summary": "Metaclass for subclassable extension types", "platform": null, "requires_dist": ["zope.testrunner ; extra == 'test'"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "zope.sequencesort", "version": "4.2", "summary": "Sequence Sorting", "platform": "", "requires_dist": ["setuptools", "Sphinx ; extra == 'docs'", "zope.testrunner ; extra == 'test'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

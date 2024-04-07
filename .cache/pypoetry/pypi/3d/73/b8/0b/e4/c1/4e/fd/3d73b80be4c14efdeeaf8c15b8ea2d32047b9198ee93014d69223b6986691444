@@ -1,0 +1,1 @@
+9999999999{"name": "zope.datetime", "version": "4.3.0", "summary": "Zope datetime", "platform": "", "requires_dist": ["setuptools", "six", "Sphinx ; extra == 'docs'", "sphinx-rtd-theme ; extra == 'docs'", "zope.testrunner ; extra == 'test'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
