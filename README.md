@@ -26,17 +26,16 @@ This project is a Python script that compares the prices of Bitcoin (BTC) and Et
 ## Project Structure
 
 - `data`: Contains historical price data files for Bitcoin and Ethereum.
-- `scripts`: Python script for fetching and processing price data.
-- `templates`: HTML templates for the webpage.
-- `static`: Static files (CSS, JavaScript) for the webpage.
-- `app.py`: Flask application script for hosting the webpage.
+- `main`: Handles the backend calls.
+- `index`: HTML templates for the webpage.
+- `front_end`: Static files (CSS, JavaScript) for the webpage.
+- `app.py`: Python script for fetching and processing price data.
 
 ## Usage
 
-1. Run the `app.py` script to start the Flask server.
+1. Run the `main.py` script to start the Flask server.
 2. Open a web browser and navigate to `http://localhost:5000` to access the comparison tool.
 3. Enter the start and end dates in the provided form to generate price comparison graphs.
 
-## Screenshots
 
 
